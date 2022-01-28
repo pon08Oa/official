@@ -1,3 +1,7 @@
 .header_menu li {
     display: inline;
 }
+
+header {
+    background: url('2793CF84-A90C-434A-9DA5-6F23DE9189E5.jpeg') no-repeat center top/cover;
+}
