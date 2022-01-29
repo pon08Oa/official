@@ -1,3 +1,7 @@
+@charset "UTF-8";
+
+/* ヘッダー */
+
 .header_menu li {
     display: inline;
 }
@@ -5,4 +9,6 @@
 header {
     background-image: url('img/2793CF84-A90C-434A-9DA5-6F23DE9189E5.jpeg');
     background-size: cover;
+    height: 1080px;
+    font-size: 50px;
 }
