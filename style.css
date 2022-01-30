@@ -10,6 +10,8 @@
 .header_menu li {
     display: inline;
     position: absolute;
+    font-size: 60px;
+    margin: 40px;
 }
 
 header {
