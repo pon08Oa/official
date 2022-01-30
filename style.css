@@ -16,7 +16,3 @@ header {
     height: 1080px;
     font-size: 50px;
 }
-
-header img {
-    object-fit: cover;
-}
