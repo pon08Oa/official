@@ -9,10 +9,4 @@
 
 .header_menu li {
     display: inline;
-    position: absolute;
-}
-
-header {
-    height: 1080px;
-    font-size: 50px;
 }
