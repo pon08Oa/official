@@ -4,3 +4,14 @@
     margin: 0px;
     padding: 0px;
 }
+
+/* ヘッダー */
+
+.header_menu li {
+    display: inline;
+    position: absolute;
+}
+
+header {
+    height: 1080px;
+}
