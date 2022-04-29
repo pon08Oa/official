@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 /*メインメニュー*/
 .main_menu {
     background-color: #add8e6;
