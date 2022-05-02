@@ -18,10 +18,12 @@ DESCTOP SIZE
     /* Aside */
     aside {
         width: 10px;
+        background-color: antiquewhite;
     }
     
     /* Main */
     main {
         width: 90%;
+        background-color: azure;
     }
 }
