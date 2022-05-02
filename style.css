@@ -5,16 +5,23 @@
     padding: 0px;
 }
 
-/*メインメニュー*/
-.main_menu {
-    background-color: #add8e6;
-    width: 10%;
-    height: 700px;
-}
-
-/*メイン*/
-.main {
-    background-color: #f5f5f5;
-    width: 90%;
-    height: 100%;
+/*
+DESCTOP SIZE
+================================================== */
+@media (min-width: 600px) {
+    /* Layout */
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    /* Aside */
+    aside {
+        width: 10px;
+    }
+    
+    /* Main */
+    main {
+        width: 90%;
+    }
 }
