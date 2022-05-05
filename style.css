@@ -20,7 +20,7 @@ DESCTOP SIZE
     /* Aside */
     aside {
         width: 10%;
-        height: 90vh;
+        height: 100vh;
         background-color: antiquewhite;
         position: fixed;
     }
@@ -29,5 +29,7 @@ DESCTOP SIZE
     main {
         width: 90%;
         background-color: azure;
+        display: flex;
+        justify-content: flex-end;
     }
 }
