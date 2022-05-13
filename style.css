@@ -1,34 +1,20 @@
 @charset "UTF-8";
 
-*{
-    margin: 0px;
-    padding: 0px;
-    width: auto;
-    height: auto;
-}
-
 /*
 ==================================================
 DESCTOP SIZE
 ================================================== */
-@media (min-width: 600px) {
-    /* Layout */
-    .container {
-        display: flex;
-        justify-content: space-between;
-    }
-    
-    /* Aside */
-    aside {
-        width: 10%;
-        height: 100vh;
-        background-color: antiquewhite;
-        position: fixed;
-    }
-    
-    /* Main */
-    main {
-        width: 90%;
-        background-color: azure;
-    }
+
+.container {
+    width: 100%;
+    display: -webkit-flex;
+    display: flex;
+}
+.sidebar {
+    width: 10%;
+    background-color: pink;
+}
+.main {
+    width: 70%;
+    background-color: aqua;
 }
