@@ -23,6 +23,7 @@ DESCTOP SIZE
 }
 .sidebar_item {
     background-color: blanchedalmond;
+    position: sticky;
 }
 .main {
     width: 90%;
