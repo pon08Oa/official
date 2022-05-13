@@ -21,6 +21,9 @@ DESCTOP SIZE
     color: chartreuse;
     position: sticky;
 }
+.sidebar_item {
+    background-color: blanchedalmond;
+}
 .main {
     width: 90%;
     background-color: aqua;
