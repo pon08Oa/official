@@ -17,16 +17,16 @@ DESCTOP SIZE
 }
 .sidebar {
     width: 10%;
-    background-color: pink;
+    background-color: aqua;
     color: chartreuse;
     position: sticky;
 }
 .sidebar_item {
-    background-color: blanchedalmond;
+    background-color: aqua;
     position: sticky;
 }
 .main {
     width: 90%;
-    background-color: aqua;
+    background-color: white;
     color: brown;
 }
