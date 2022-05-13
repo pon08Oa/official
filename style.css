@@ -13,8 +13,10 @@ DESCTOP SIZE
 .sidebar {
     width: 10%;
     background-color: pink;
+    color: chartreuse;
 }
 .main {
     width: 70%;
     background-color: aqua;
+    color: brown;
 }
