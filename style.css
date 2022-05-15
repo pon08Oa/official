@@ -16,6 +16,11 @@
     background-color: aqua;
     color: black;
 }
+
+.fa-solid {
+    margin: auto;
+}
+
 .main {
     width: 88%;
     background-color: white;
