@@ -18,14 +18,15 @@ DESCTOP SIZE
 .sidebar {
     width: 10%;
     background-color: aqua;
-    color: chartreuse;
+    color: black;
 }
 .sidebar_item {
     background-color: aqua;
     position: sticky;
 }
 .main {
-    width: 90%;
+    width: 88%;
     background-color: white;
     color: brown;
+    margin-left: 2px;
 }
