@@ -5,28 +5,20 @@
     padding: 0;
 }
 
-/*
-==================================================
-DESCTOP SIZE
-================================================== */
-
 .container {
-    width: 100%;
-    display: -webkit-flex;
-    display: flex;
 }
 .sidebar {
+    box-sizing: border-box;
+    height: 100%;
     width: 10%;
+    position: fixed;
+    overflow: auto;
     background-color: aqua;
     color: black;
-}
-.sidebar_item {
-    background-color: aqua;
-    position: sticky;
+    padding: 2%;
 }
 .main {
     width: 88%;
     background-color: white;
-    color: brown;
-    margin-left: 2px;
+    color: black;
 }
