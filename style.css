@@ -5,10 +5,8 @@
     padding: 0;
 }
 
-main {
-  display: block;
-  margin-left: 150px;
-}
+/*===============以下メニュー部分===============*/
+
 .menu {
   position: fixed;
   top: 0px;
@@ -19,3 +17,11 @@ main {
 .menu li {
   list-style: none;
 }
+
+/*===============以下メイン部分===============*/
+
+main {
+  display: block;
+  margin-left: 150px;
+}
+
