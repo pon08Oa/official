@@ -22,8 +22,13 @@
   list-style: none;
   text-align: center;
 }
-.menu_line {
-  text-align: center;
+.menu_bar_1 {
+  height: 3px;
+  background: skyblue;
+  background-image: -webkit-linear-gradient(left, #caeaf7, blue, #caeaf7);
+  background-image: -moz-linear-gradient(left, #caeaf7, blue, #caeaf7);
+  background-image: -ms-linear-gradient(left, #caeaf7, blue, #caeaf7);
+  background-image: -o-linear-gradient(left, #caeaf7, blue, #caeaf7);
 }
 
 
