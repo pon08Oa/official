@@ -23,6 +23,7 @@
   text-align: center;
 }
 .menu_bar_1 {
+  border: none;
   height: 3px;
   background: skyblue;
   background-image: -webkit-linear-gradient(left, #caeaf7, blue, #caeaf7);
